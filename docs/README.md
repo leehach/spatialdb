@@ -1,4 +1,4 @@
-# Syllabus
+# GUS 8066: Spatial Database Design
 
 Meeting:
 
