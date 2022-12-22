@@ -88,16 +88,22 @@ You will earn points along several **tracks**. Each track is worth up to 100 poi
 
 Attendance
 : 0-100 points. Your attendance score is a straight percentage of the class sessions you are present for.
+
 SQL Quizzes (8)
 : 34 + 10 points each for quizzes 1 through 5, and 3 points each for quizzes 6 through 8.
+
 Exercises (8)
 : ½ bonus point each added to the SQL Quizzes track.
+
 DataCamp (2)
 : 1 bonus point each added to the SQL Quizzes track.
+
 Homework Assignments (3)
 : 65 + 10 points for each assignment
+
 Tutorial
 : 70-100 points. The tutorial will be awarded up to 30 points based on requirements announced separately.
+
 Term Project
 : 50-100 points. The term project will be awarded up to 50 points based on requirements elaborated at https://sites.temple.edu/spatialdb/term-project/.
 
