@@ -1,5 +1,3 @@
-# GUS 8066: Spatial Database Design
-
 Meeting:
 
  * Thurs 5:30pm - 8pm, Gladfelter 847
