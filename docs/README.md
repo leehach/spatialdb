@@ -1,6 +1,6 @@
 Meeting:
 
- * Thurs 5:30pm - 8pm, Gladfelter 847
+* Thurs 5:30pm - 8pm, Gladfelter 847
 
 Instructor Info:
 
@@ -37,7 +37,6 @@ This course meets once a week. Missing *any* class meetings will hamper your abi
 * [Relational Database Design and Implementation, 4e](https://www.elsevier.com/books/relational-database-design-and-implementation/harrington/978-0-12-804399-8), by Harrington
 * The official [PostgreSQL Documentation](https://www.postgresql.org/docs/current/index.html)
 * The official [PostGIS Documentation](https://postgis.net/docs/)
-
 
 *PostGIS in Action* is available directly from the publisher at the link above. The publisher regularly runs sales. If you sign up for their Deal of the Day email far enough in advance, ***there is a good chance you will be able to purchase the text at 40%-50% off***. This is a very hands-on book, with many code examples and implementation recommendations, and you are required to purchase a physical copy. I expect that you will get significant use out of it even after the conclusion of the course.
 
