@@ -225,7 +225,7 @@ If you cannot complete this step, use a GUI tool such as QGIS to import the CSV 
 
 Run the following commands to create a lookup table based on the data in the `owner` column:
 
-```
+```sql
 DROP TABLE IF EXISTS pole_owner CASCADE;
 CREATE TABLE pole_owner (
     pole_owner_id int GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
@@ -331,7 +331,7 @@ Source: <http://metadata.phila.gov/#home/datasetdetails/555f8135f15fcb6c6ed4413a
 
 Write a `CREATE TABLE` statement for the `street_pole` table. You will find it easier to test your script if you include the following line immediately prior to the `CREATE TABLE`:
 
-```
+```sql
 DROP TABLE IF EXISTS street_pole CASCADE;
 ```
 
@@ -379,7 +379,7 @@ Insert the `pole_owner_id` (int), rather than the `owner` (text) into the table.
 
 Since you inserted explicit values into the identity column (`gid`), you also need to update the autoincrementing sequence attached to that column so that it doesn't return a value that is already in the table. (That is, if you the sequence starts at 1, and you insert the numbers 1 through 10, you need to tell the sequence to skip over those numbers the next time you ask it for the next value.) You do this by running the following statement *after* the `INSERT` statement:
 
-```
+```sql
 SELECT setval(
     'street_pole_gid_seq',
     (SELECT max(gid) FROM street_pole)
@@ -456,7 +456,7 @@ This milestone involves obtaining data, demonstrating familiarity with it, uploa
 
 To begin, you must identify a dataset that you will use for your final project. This should be a vector dataset that is publicly available. Examples include business registrations, cadastral data (i.e., property data maintained by an assessor’s office), crime data, sales data, survey data from any number of government or private sources, etc. It may not be US Census data (either Decennial Census or American Community Survey). It must be in a spatial format (e.g., shapefile, geodatabase, GeoJSON) or data which is capable of being spatialized (e.g., business addresses which can be geocoded, survey data which can be joined to ZIP Codes, etc.).
 
-> If you are already quite familiar with raster data, and it will be useful to your future career development to work with raster data, you may propose a final project involving a raster dataset, but you must clear it with me ahead of time.
+> If you are already quite familiar with raster analysis, and it will be useful to your future career development to work with raster data, you may propose a final project involving a raster dataset, but you must clear it with me ahead of time.
 
 Among the least interesting data to work with for this kind of project is attribute data that merely joins to a spatial layer representing some administrative unit or analysis boundary. That is, if you would like to analyze crime data, working with crime point locations would lead to interesting design project (and interesting spatial questions); but a table of crime data already aggregated to townships, states, Census tracts, etc., probably leaves very little design work (beyond joining that attribute layer to a spatial layer), and even the spatial analysis component will be pretty basic.
 
