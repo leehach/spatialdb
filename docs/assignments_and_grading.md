@@ -261,7 +261,6 @@ Source: <http://metadata.phila.gov/#home/datasetdetails/555f8135f15fcb6c6ed4413a
 | POLE_NUM   | Unique identifier                                                                                | Integer |
 | TAP_ID     | identifies the poles tap pole                                                                    | Integer |
 | TYPE       | Acronym that describes the pole type and style. Contact GIS Data Contact below for translations. | Text    |
-|            |                                                                                                  |         |
 |            | * AAMP - Avenue of the Arts Mast Arm Pole                                                        |         |
 |            | * AAPT - Avenue of the Arts Street Light Pole                                                    |         |
 |            | * AEL - Alley Pole                                                                               |         |
@@ -366,10 +365,7 @@ Insert the `pole_owner_id` (int), rather than the `owner` (text) into the table.
 Since you inserted explicit values into the identity column (`gid`), you also need to update the autoincrementing sequence attached to that column so that it doesn't return a value that is already in the table. (That is, if you the sequence starts at 1, and you insert the numbers 1 through 10, you need to tell the sequence to skip over those numbers the next time you ask it for the next value.) You do this by running the following statement *after* the `INSERT` statement:
 
 ```sql
-SELECT setval(
-    'street_pole_gid_seq',
-    (SELECT max(gid) FROM street_pole)
-    );
+SELECT setval('street_pole_gid_seq', (SELECT max(gid) FROM street_pole));
 ```
 
 #### 7. Insert related data into `pole_light_info` and `alley_pole`
