@@ -4,3 +4,6 @@ theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-dinky
+
+titles_from_headings:
+  enabled: false
