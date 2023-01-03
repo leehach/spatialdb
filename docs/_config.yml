@@ -1,9 +1,9 @@
 title: Spatial Database Design
 description: Prof. Hachadoorian | Fall 2022
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-dinky
-
+remote_theme: chrisrhymes/bulma-clean-theme
 titles_from_headings:
   enabled: false
