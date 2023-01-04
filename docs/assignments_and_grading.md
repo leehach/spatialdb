@@ -63,7 +63,7 @@ If you don't take any quizzes one week, you have given up one opportunity to pro
 * Quiz 7: Spatial Relationships (?)
 * Quiz 8: Proximity Analysis (?)
 
-### Exercises (1/2 x eight)
+### Exercises (½ x eight)
 
 During the first half of the semester, exercises will be assigned each week based on that week's lecture topic. Only one problem from each exercise will be evaluated, and they will earn you bonus points in the Quizzes track. We will go over select problems from the exercises at the beginning of the following class. In order to benefit from them, you must have completed them before we review them in class. Accordingly, exercises will not be accepted late.
 
