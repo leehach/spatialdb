@@ -3,11 +3,11 @@
     - name: Overview
       link: /
     - name: Schedule in Detail
-      link: /schedule_in_detail/
+      link: /schedule_in_detail
     - name: Assignments & Grading
-      link: /assignments_and_grading/
+      link: /assignments_and_grading
     - name: General Policies
-      link: /general_policies/
+      link: /general_policies
 
 ################################
 # Sample format
