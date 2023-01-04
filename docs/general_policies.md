@@ -32,7 +32,7 @@ If your work schedule or other responsibilities make it such that you are unable
 
 Many of my courses have a programming or computer-based analysis component. Students often email when they are stuck on an assignment. I can provide very limited support on these kinds of assignments via email. Please come to office hours or discuss with me in class.
 
-There are two reasons why providing such support is difficult or impossible. The first is that it is often not apparent what the problem is without time reproducing your work up to that point. I may be unable to diagnose the problem, but even if I could, it is far simpler for you to show me your work up to that point and demonstrate the problem you are encountering. The more important reason is that I want to lead you to the solution, not just give you the answer. This is possible to do in a dialogue, but not possible to do via email.
+There are two reasons why providing such support is difficult or impossible. The first is that it is often not apparent what the problem is without reproducing your work up to that point. This is time-consuming, and may not even succeed in reproducing the issue, so it is far simpler for you to show me your work up to that point and demonstrate the problem you are encountering. The more important reason is that I want to lead you to the solution, not just give you the answer. This is possible to do in a dialogue, but not possible to do via email.
 
 If you *do* email me for support on a code-based assignment, it is usually far preferable to send your code and any resulting error message in the text of the email. Please do not send screenshots of your programming environment.
 
