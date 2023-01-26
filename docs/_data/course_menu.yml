@@ -8,6 +8,10 @@
       link: /assignments_and_grading
     - name: General Policies
       link: /general_policies
+- label: Software Installation and Setup
+  items:
+    - name: Creating a PostGIS Server in Docker
+      link: /creating_a_postgis_server_in_docker
 
 ################################
 # Sample format
