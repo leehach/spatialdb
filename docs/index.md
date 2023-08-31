@@ -1,6 +1,6 @@
 Meeting:
 
-* Time, Location
+* Thursday 5:30-8pm, Gladfelter 847
 
 Instructor Info:
 
@@ -8,9 +8,9 @@ Instructor Info:
 * 104 Gladfelter Hall – In GIS Studio, enter 103A
 * [Lee.Hachadoorian@temple.edu](mailto:Lee.Hachadoorian@temple.edu)
 * Office Hours:
-    * Monday 1-2pm (office, virtual)
-    * Tuesday 1-2pm (office only)
-    * Wednesday 1-2pm (office only)
+    * Monday 2:30-3:30pm 
+    * Tuesday 2:30-3:30 (office + virtual)
+    * Thursday 2:30-3:30
 
 # Overview
 
@@ -42,8 +42,6 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
 
 ## Schedule in Brief
 
-**FORTHCOMING**
-
 * Week 1
     * Topic
     * Assignment Due
@@ -68,7 +66,6 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
 * Week 8
     * Topic
     * Assignment Due
-* **SPRING BREAK**
 * Week 9
     * Topic
     * Assignment Due
@@ -81,10 +78,10 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
 * Week 12
     * Topic
     * Assignment Due
+* **FALL BREAK**
 * Week 13
     * Topic
     * Assignment Due
-* **FALL BREAK**
 * Week 14
     * Topic
     * Assignment Due
