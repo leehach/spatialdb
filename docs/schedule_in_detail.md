@@ -17,6 +17,8 @@ In the following list:
         * [Data Modeling: Conceptual vs Logical vs Physical Data Model](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model)
     * Thurs
         * Meeting: Introduction and Basic Queries
+    * Fri
+        * **Due Date:** DataCamp - Intermediate SQL Queries, Chapters 1 & 2
 * Week 2 (9/4-9/8)
     * Reading
         * RDDI 7 (only "First Normal Form"), 18 (only "Performing Arithmetic", "String Manipulation", "Date and Time Manipulation")
@@ -37,12 +39,16 @@ In the following list:
         * Workshop 13-14
     * Thurs
         * Meeting: Table Joins
+    * Fri
+        * **Due Date:** DataCamp - Intermediate SQL Queries, Chapters 3 & 4
 * Week 5 (9/25 - 9/29)
     * Reading
         * RDDI 5, 20
         * PG 6, all sections: [Data Manipulation](https://www.postgresql.org/docs/current/dml.html)
     * Thurs
         * Meeting: Data Modification Language (DML) and Keys
+    * Fri
+        * **Due Date:** DataCamp - Joining Data in PostgreSQL
 * Week 6 (10/2 - 10/6)
     * Reading
         * RDDI 7 (review), 11
