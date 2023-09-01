@@ -43,48 +43,34 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
 ## Schedule in Brief
 
 * Week 1
-    * Topic
-    * Assignment Due
+    * Introduction and Basic Queries
 * Week 2
-    * Topic
-    * Assignment Due
+    * SQL Functions and Spatial Data
 * Week 3
-    * Topic
-    * Assignment Due
+    * Aggregate Queries
+    * Term Project: Milestone 1 Due
 * Week 4
-    * Topic
-    * Assignment Due
+    * Table Joins
 * Week 5
-    * Topic
-    * Assignment Due
+    * Data Modification Language (DML) and Keys
 * Week 6
-    * Topic
-    * Assignment Due
+    * Data Definition Language (DDL) and Database Normalization
 * Week 7
-    * Topic
-    * Assignment Due
+    * Spatial Relationships
 * Week 8
-    * Topic
-    * Assignment Due
+    * Proximity Analysis
 * Week 9
-    * Topic
-    * Assignment Due
+    * Storage Strategies and Performance Tuning
 * Week 10
-    * Topic
-    * Assignment Due
+    * Student-Led Tutorials
 * Week 11
-    * Topic
-    * Assignment Due
+    * Student-Led Tutorials
 * Week 12
-    * Topic
-    * Assignment Due
-* **FALL BREAK**
+    * Student-Led Tutorials
 * Week 13
-    * Topic
-    * Assignment Due
+    * Student-Led Tutorials
 * Week 14
-    * Topic
-    * Assignment Due
+    * Student-Led Tutorials
 
 ## Assignments in Brief
 

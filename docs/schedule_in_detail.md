@@ -1,98 +1,90 @@
 # Schedule in Detail
 
-**FORTHCOMING**
+**Dates below are for Fall 2023 semester.**
 
-* Week 1
-    * Mon
-        * Meeting:
-        * **Due Date:**
-        * Discussion board, other activity
-    * Tues
-    * Wed
+In the following list:
+
+* "PiA" refers to the *PostGIS in Action, 3e* by Obe & Hsu.
+* "RDDI" refers to *Relational Database Design and Implementation, 4e* by Harrington.
+* "PG" refers to the [*PostgreSQL Documentation*](https://www.postgresql.org/docs/current). Note that this links to the documentation for the currently released version of PostgreSQL; if the documentation changes in a way that breaks the link, please notify the professor so that it can be updated.
+* "Workshop" refers to the [Introduction to PostGIS Workshop](http://postgis.net/workshops/postgis-intro/). The files for this workshop are also available as a download in Canvas. Note that the PostGIS Workshop is listed under "Reading" because the exercises include answers, and are not turned in for a grade; you should do the exercises and check your own answers.
+
+* Week 1 (8/28 - 9/1)
+    * Reading
+        * RDDI 1, 4, 10, 16
+        * [Database Terminology](https://www.crunchydata.com/blog/postgres-databases-and-schemas)
+        * PG 7.3: [Select Lists](https://www.postgresql.org/docs/current/queries-select-lists.html)
+        * [Data Modeling: Conceptual vs Logical vs Physical Data Model](https://online.visual-paradigm.com/knowledge/visual-modeling/conceptual-vs-logical-vs-physical-data-model)
     * Thurs
-    * Fri
-* Week 2
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Introduction and Basic Queries
+* Week 2 (9/4-9/8)
+    * Reading
+        * RDDI 7 (only "First Normal Form"), 18 (only "Performing Arithmetic", "String Manipulation", "Date and Time Manipulation")
+        * PiA 2, 3, 4, 6
+        * Workshop 9-10, 16-19
     * Thurs
-    * Fri
-* Week 3
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: SQL Functions and Spatial Data
+* Week 3 (9/11 - 9/15)
+    * Reading
+        * RDDI 7 (only "Second Normal Form"), 19
     * Thurs
-    * Fri
-* Week 4
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Aggregate Queries
+        * **Due Date:** Milestone 1 (evaluated in class)
+* Week 4 (9/18 - 9/22)
+    * Reading
+        * RDDI 7 (only "Third Normal Form"), 17
+        * PG 7.2: [Table Expressions](https://www.postgresql.org/docs/current/queries-table-expressions.html)
+        * Workshop 13-14
     * Thurs
-    * Fri
-* Week 5
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Table Joins
+* Week 5 (9/25 - 9/29)
+    * Reading
+        * RDDI 5, 20
+        * PG 6, all sections: [Data Manipulation](https://www.postgresql.org/docs/current/dml.html)
     * Thurs
-    * Fri
-* Week 6
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Data Modification Language (DML) and Keys
+* Week 6 (10/2 - 10/6)
+    * Reading
+        * RDDI 7 (review), 11
+        * PG 5.1-4: [Data Definition](https://www.postgresql.org/docs/current/ddl.html) only sections on "Table Basics", "Default Values", "Generated Columns", and "Constraints"
+        * PiA 14
     * Thurs
-    * Fri
-* Week 7
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Data Definition Language (DDL) and Database Normalization
+* Week 7 (10/9 - 10/13)
+    * Reading
+        * PiA 8
+        * Workshop 11-12, 22
     * Thurs
-    * Fri
-* Week 8
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Spatial Relationships
+* Week 8 (10/16 - 10/20)
+    * Reading
+        * PiA 9
+        * Workshop 29
     * Thurs
-    * Fri
-* **SPRING BREAK**
-* Week 9
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Proximity Analysis
+* Week 9 (10/23 - 10/27)
+    * Reading
+        * RDDI 8
+        * PiA 14, 15
+        * Workshop 15, 27, 33
     * Thurs
-    * Fri
-* Week 10
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Storage Strategies and Performance Tuning
+* Week 10 (10/31 - 11/3)
     * Thurs
-    * Fri
-* Week 11
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Student-Led Tutorials
+* Week 11 (11/6 - 11/10)
     * Thurs
-    * Fri
-* Week 12
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Student-Led Tutorials
+* Week 12 (11/13 - 11/17)
     * Thurs
-    * Fri
-* Week 13
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Student-Led Tutorials
+* **FALL BREAK** (11/20 - 11/24)
+* Week 13 (11/27 - 12/1)
     * Thurs
-    * Fri
-* **FALL BREAK**
-* Week 14
-    * Mon
-    * Tues
-    * Wed
+        * Meeting: Student-Led Tutorials
+* Week 14 (12/4 - 12/8)
     * Thurs
-    * Fri
+        * Meeting: Student-Led Tutorials
 * Finals Period
-    * **EXAM:**
-    * **Due Date:**
 
 
