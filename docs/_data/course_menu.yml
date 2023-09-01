@@ -12,6 +12,8 @@
   items:
     - name: Creating a PostGIS Server in Docker
       link: /creating_a_postgis_server_in_docker
+    - name: Locally Hosting the Open Source Shakespeare Database
+      link: /locally_hosting_the_open_source_shakespeare_database
 - label: Exercises
   items:
     - name: "Exercise 1: SQL Select Statements"
