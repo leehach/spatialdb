@@ -12,6 +12,10 @@
   items:
     - name: Creating a PostGIS Server in Docker
       link: /creating_a_postgis_server_in_docker
+- label: Exercises
+  items:
+    - name: Exercise 1: SQL Select Statements
+      link: /exercises/ex1_sql_select
 
 ################################
 # Sample format
