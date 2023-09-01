@@ -1,4 +1,6 @@
-These queries should be run against the Open Source Shakespeare database, which has been uploaded to the schema `shakespeare` on the Kropotkin server.
+# Exercise: SQL SELECT Statements
+ 
+These queries should be run against the Open Source Shakespeare database.
 
 Each query should be run against a single table (i.e, no joins are necessary). You will not need to use the `wordform` or `character_work` table to answer any of these questions.
 

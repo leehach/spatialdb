@@ -16,6 +16,10 @@
   items:
     - name: "Exercise 1: SQL Select Statements"
       link: /exercises/ex1_sql_select
+    - name: "Exercise 2: Spatial Reference Systems and Measurement"
+      link: /exercises/ex2_spatial_reference_systems
+    - name: "Exercise 3: SQL Aggregate Query"
+      link: /exercises/ex3_sql_aggregate_query
 
 ################################
 # Sample format
