@@ -9,6 +9,8 @@ If not,
 1. [Get Docker](https://docs.docker.com/get-docker/) as appropriate for your OS.
 2. [Register](https://hub.docker.com/signup) on Docker Hub.
 
+> **NOTE:** When you first run Docker Desktop, you may get a notice that WSL (Windows Subsystem for Linux) needs to be upgraded. Open Windows PowerShell and run `wsl.exe --update` at the command line.
+
 # Create a PostGIS Container
 
 We will use the PostGIS images maintained at <https://hub.docker.com/r/kartoza/postgis/>. Begin by opening a terminal. Remember that you can use the up and down arrows in the terminal to cycle through recently used commands. If you are working on Windows, I recommend using Windows PowerShell instead of Command Prompt because PowerShell will remember your commands from previous terminal sessions.
