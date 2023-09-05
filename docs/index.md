@@ -1,3 +1,8 @@
+---
+title: Spatial Database Design
+subtitle: Fall 2023
+---
+
 Meeting:
 
 * Thursday 5:30-8pm, Gladfelter 847
