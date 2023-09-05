@@ -22,6 +22,16 @@
       link: /exercises/ex2_spatial_reference_systems
     - name: "Exercise 3: SQL Aggregate Query"
       link: /exercises/ex3_sql_aggregate_query
+    - name: "Exercise 4: SQL Joins"
+      link: /exercises/ex4_sql_joins
+    - name: "Exercise 5: Spatial Joins"
+      link: /exercises/ex5_spatial_joins
+    - name: "Exercise 6: SQL Inserts"
+      link: /exercises/ex6_sql_inserts
+    - name: "Exercise 7: Spatial Relationships"
+      link: /exercises/ex7_spatial_relationships
+    - name: "Exercise 8: Proximity Analysis"
+      link: /exercises/ex8_proximity_analysis
 
 ################################
 # Sample format
