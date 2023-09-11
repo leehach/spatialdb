@@ -47,6 +47,7 @@ In the following list:
         * PG 6, all sections: [Data Manipulation](https://www.postgresql.org/docs/current/dml.html)
     * Thurs
         * Meeting: Data Modification Language (DML) and Keys
+        * **Due Date:** Database Design Assignment 0 (discussed in class)
     * Fri
         * **Due Date:** DataCamp - Joining Data in PostgreSQL
 * Week 6 (10/2 - 10/6)
@@ -56,18 +57,22 @@ In the following list:
         * PiA 14
     * Thurs
         * Meeting: Data Definition Language (DDL) and Database Normalization
+        * **Due Date:** Database Design Assignment 1
 * Week 7 (10/9 - 10/13)
     * Reading
         * PiA 8
         * Workshop 11-12, 22
     * Thurs
         * Meeting: Spatial Relationships
+        * Database Design Assignment 1 discussed in class
+        * **Due Date:** Database Design Assignment 2
 * Week 8 (10/16 - 10/20)
     * Reading
         * PiA 9
         * Workshop 29
     * Thurs
         * Meeting: Proximity Analysis
+        * Database Design Assignment 2 discussed in class
 * Week 9 (10/23 - 10/27)
     * Reading
         * RDDI 8
@@ -75,15 +80,20 @@ In the following list:
         * Workshop 15, 27, 33
     * Thurs
         * Meeting: Storage Strategies and Performance Tuning
+        * **Due Date:** Milestone 2 (evaluated in class)
+        * **Due Date:** Database Design Assignment 3
 * Week 10 (10/31 - 11/3)
     * Thurs
         * Meeting: Student-Led Tutorials
+        * Database Design Assignment 3 discussed in class
 * Week 11 (11/6 - 11/10)
     * Thurs
         * Meeting: Student-Led Tutorials
+        * **Due Date:** Milestone 3 (evaluated in class)
 * Week 12 (11/13 - 11/17)
     * Thurs
         * Meeting: Student-Led Tutorials
+        * **Due Date:** Milestone 4 (evaluated in class)
 * **FALL BREAK** (11/20 - 11/24)
 * Week 13 (11/27 - 12/1)
     * Thurs
@@ -92,5 +102,5 @@ In the following list:
     * Thurs
         * Meeting: Student-Led Tutorials
 * Finals Period
-
-
+    * Scheduled Examination Time (12/14)
+        * Due Date:** Milestone 5 (Final Report)

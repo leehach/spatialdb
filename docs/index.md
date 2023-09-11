@@ -53,24 +53,33 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
     * Table Joins
 * Week 5
     * Data Modification Language (DML) and Keys
+    * Assignment 0 (Practice ERD) Due
 * Week 6
     * Data Definition Language (DDL) and Database Normalization
+    * Assignment 1 (Basic ERD) Due
 * Week 7
     * Spatial Relationships
+    * Assignment 2 (Normalizing the Open Source Shakespeare Database) Due
 * Week 8
     * Proximity Analysis
 * Week 9
     * Storage Strategies and Performance Tuning
+    * Term Project: Milestone 2 Due
+    * Assignment 3 (ETL Processes) Due
 * Week 10
     * Student-Led Tutorials
 * Week 11
     * Student-Led Tutorials
+    * Term Project: Milestone 3 Due
 * Week 12
     * Student-Led Tutorials
+    * Term Project: Milestone 4 Due
 * Week 13
     * Student-Led Tutorials
 * Week 14
     * Student-Led Tutorials
+* Finals
+    * Term Project: Milestone 5 (Final Report) Due
 
 ## Assignments in Brief
 
