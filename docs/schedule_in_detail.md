@@ -103,4 +103,4 @@ In the following list:
         * Meeting: Student-Led Tutorials
 * Finals Period
     * Scheduled Examination Time (12/14)
-        * Due Date:** Milestone 5 (Final Report)
+        * **Due Date:** Milestone 5 (Final Report)
