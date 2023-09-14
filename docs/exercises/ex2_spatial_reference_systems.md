@@ -10,8 +10,8 @@ Make sure to pay attention to the units, and convert all distances to kilometers
     c. the geodetic area using a geography cast
 2. Create a query which calculates the distance from the 4/5/6 Grand Central Station stop to every neighborhood in `nyc_neighborhoods`. Use a subquery to select only the `geom` for Grand Central Station as one of the input parameters to the distance function. Write one query which displays the neighborhood name and the following distances:
     a. the distance in the coordinate system as stored (UTM 18N)
-    b. the area in New York State Plane Long Island (look up the appropriate SRID)
-    c. the geodetic area using a geography cast
+    b. the distance in New York State Plane Long Island (look up the appropriate SRID)
+    c. the geodetic distance using a geography cast
 3. Create a query which calculates distance from Philadelphia to the five most populous cities in the table `ne_10m_populated_places` (use the `pop_max` column for population size). Write one query which displays the city name and the following distances:
     a. the distance in the coordinate system as stored (decimal degrees, which will be useless)
     b. the distance in Web Mercator (which will also be useless)
