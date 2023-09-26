@@ -13,12 +13,12 @@ Some notes on using Lucidchart ERDs for database modelling:
 
 Lucidchart has a number of useful help pages and tutorial videos. Here are ones specifically focused on working with ERDs:
 
-* Lucidchart Help Center Entity Relationship Diagrams: Several short step-by-step guides, with screenshots, to common actions when creating ERDs
+* [Lucidchart Help Center Entity Relationship Diagrams](https://lucidchart.zendesk.com/hc/en-us/articles/207299756-Entity-Relationship-Diagrams): Several short step-by-step guides, with screenshots, to common actions when creating ERDs
 * ERD Tutorial videos:
-    * Entity Relationship Diagram (ERD) Tutorial – Part 1
-    * Entity Relationship Diagram (ERD) Tutorial – Part 2
+    * [Entity Relationship Diagram (ERD) Tutorial – Part 1](https://www.youtube.com/watch?v=QpdhBUYk7Kk)
+    * [Entity Relationship Diagram (ERD) Tutorial – Part 2](https://www.youtube.com/watch?v=-CuY5ADwn24)
 * Tutorial videos on exporting SQL DDL and importing from existing databases:
-    * Lucidchart Tutorials – Export your ERD
-    * Lucidchart Tutorials – Import for ERD
+    * [Lucidchart Tutorials – Export your ERD](https://www.youtube.com/watch?v=q8hdO8Fqjcc)
+    * [Lucidchart Tutorials – Import for ERD](https://www.youtube.com/watch?v=yFjeJnV42Lg)
 
 
