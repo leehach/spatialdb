@@ -10,8 +10,8 @@ This also assumes that you have `ogr2ogr` installed. On Windows, this can be ins
 4. Open OSGeo4W Shell (Windows) or the terminal (Mac/Linux). Change directory (`cd`) to the folder that contains `natural_earth_vector.gpkg`.
 5. Use `ogr2ogr` to load the data into Docker PostGIS database:
     
-    `ogr2ogr -f PostgreSQL PG:"host=localhost port=5433 dbname=gis user=docker password=docker" -lco SCHEMA=natural_earth -nlt PROMOTE_TO_MULTI natural_earth_vector.gpkg`{.bash}
+    `ogr2ogr -f PostgreSQL PG:"host=localhost port=5433 dbname=gis user=docker password=docker" -lco SCHEMA=natural_earth -nlt PROMOTE_TO_MULTI natural_earth_vector.gpkg`
     
     This statement should take 5 minutes or so to run.
 
-**NOTE:** `PROMOTE_TO_MULTI` is necessary in order to accommodate mixed polygons/multipolygons in some of the vector layers (the import will fail without it). While multipolygons are very common, multilines and multipoints are less common. Unfortunately this command will also import all the points and lines and multipoints and multilines. If you don't want to do this, you will have to import specific layers from the GeoPackage. The benefit of doing it the way we are doing is that we are able to import all 135 layers in the GeoPackage in one go.
+**NOTE:** `PROMOTE_TO_MULTI` is necessary in order to accommodate mixed polygons/multipolygons in some of the vector layers (the import will fail without it). While multipolygons are very common, multilines and multipoints are less common. Unfortunately this command will also import all the points and lines and multipoints and multilines. We are doing it this way so that we can import all 135 layers in the GeoPackage in one go. If you don't want to do this, you will have to import specific layers from the GeoPackage; that is, import specific polygon layers with `PROMOTE_TO_MULTI`, and import specific line and point layers without it.
