@@ -10,9 +10,7 @@ This also assumes that you have `ogr2ogr` installed. On Windows, this can be ins
 4. Open OSGeo4W Shell (Windows) or the terminal (Mac/Linux). Change directory (`cd`) to the folder that contains `natural_earth_vector.gpkg`.
 5. Use `ogr2ogr` to load the data into Docker PostGIS database:
     
-    ```bash
-    ogr2ogr -f PostgreSQL PG:"host=localhost port=5433 dbname=gis user=docker password=docker" -lco SCHEMA=natural_earth -nlt PROMOTE_TO_MULTI natural_earth_vector.gpkg
-    ```
+    `ogr2ogr -f PostgreSQL PG:"host=localhost port=5433 dbname=gis user=docker password=docker" -lco SCHEMA=natural_earth -nlt PROMOTE_TO_MULTI natural_earth_vector.gpkg`{.bash}
     
     This statement should take 5 minutes or so to run.
 
