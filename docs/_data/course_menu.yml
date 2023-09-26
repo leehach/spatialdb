@@ -8,14 +8,6 @@
       link: /assignments_and_grading
     - name: General Policies
       link: /general_policies
-- label: Software Installation and Setup
-  items:
-    - name: Creating a PostGIS Server in Docker
-      link: /creating_a_postgis_server_in_docker
-    - name: Locally Hosting the Open Source Shakespeare Database
-      link: /locally_hosting_the_open_source_shakespeare_database
-    - name: Upload the Natural Earth Database
-      link: /upload_natural_earth_database
 - label: Exercises
   items:
     - name: "Exercise 1: SQL Select Statements"
@@ -34,6 +26,16 @@
       link: /exercises/ex7_spatial_relationships
     - name: "Exercise 8: Proximity Analysis"
       link: /exercises/ex8_proximity_analysis
+- label: Software Installation and Other Instructions
+  items:
+    - name: Creating a PostGIS Server in Docker
+      link: /creating_a_postgis_server_in_docker
+    - name: Locally Hosting the Open Source Shakespeare Database
+      link: /locally_hosting_the_open_source_shakespeare_database
+    - name: Upload the Natural Earth Database
+      link: /upload_natural_earth_database
+    - name: ERDs with Lucidchart
+      link: /erds_with_lucidchart
 
 ################################
 # Sample format
