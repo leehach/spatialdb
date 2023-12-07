@@ -98,7 +98,7 @@ SQL Quizzes (8)
 : DataCamp (2): 1 bonus point each (2 max).
 
 Database Design Assignments (3)
-: 65 base score
+: 69 base score
 : Ungraded - Practice ERD
 : 10 points - Basic ERD with LucidChart
 : 10 points - Normalizing the Open Source Shakespeare Database
