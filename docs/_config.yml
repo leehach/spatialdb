@@ -4,7 +4,7 @@ description: Prof. Hachadoorian | Fall 2023
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-dinky
-remote_theme: chrisrhymes/bulma-clean-theme
+remote_theme: chrisrhymes/bulma-clean-theme@v0.14.0
 
 titles_from_headings:
   enabled: false
