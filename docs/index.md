@@ -62,18 +62,18 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
     * Assignment 2 (Normalizing the Open Source Shakespeare Database) Due
 * Week 8
     * Proximity Analysis
+    * Term Project: Milestone 2 Due
 * Week 9
     * Storage Strategies and Performance Tuning
-    * Term Project: Milestone 2 Due
     * Assignment 3 (ETL Processes) Due
 * Week 10
     * Student-Led Tutorials
+    * Term Project: Milestone 3 Due
 * Week 11
     * Student-Led Tutorials
-    * Term Project: Milestone 3 Due
-* Week 12
-    * Student-Led Tutorials
     * Term Project: Milestone 4 Due
+* Week 12
+    * **PROFESSOR AT CONFERENCE; CLASS WILL BE HELD ONLINE OR CANCELLED**<!--Student-Led Tutorials-->
 * Week 13
     * Student-Led Tutorials
 * Week 14
