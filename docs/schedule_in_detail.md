@@ -92,8 +92,8 @@ In the following list:
         * Meeting: Student-Led Tutorials
         * **Due Date:** Milestone 4 (evaluated in class)
 * Week 12 (11/11 - 11/15)
-    * Thurs — **PROFESSOR AT CONFERENCE; CLASS WILL BE HELD ONLINE OR CANCELLED**<!--
-        * Meeting: Student-Led Tutorials-->
+    * Thurs
+        * **PROFESSOR AT CONFERENCE; CLASS WILL BE HELD ONLINE OR CANCELLED** <!--Meeting: Student-Led Tutorials-->
 * Week 13 (11/18 - 11/22)
     * Thurs
         * Meeting: Student-Led Tutorials
