@@ -13,13 +13,13 @@ Use table aliases to improve the readability of your queries. You can refer to t
 2. What are the character names, play titles and full text for any line where a character mentions the word "university".
 3. Which plays have 60 or more characters? Give the play name and the number of characters; sort the results from most to least characters.
 4. Some characters have no lines.
-    a. Confirm that some characters have no lines by returning a list of the names of characters with a speech count of 0. (This is a single table query.)
-    b. Return a list of names of characters that do not appear in the `paragraph` table (and therefore have no lines).
-    c. Confirm that these two resultsets are the same.
+    1. Confirm that some characters have no lines by returning a list of the names of characters with a speech count of 0. (This is a single table query.)
+    2. Return a list of names of characters that do not appear in the `paragraph` table (and therefore have no lines).
+    3. Confirm that these two resultsets are the same.
 5. List the character, act number (`section`) and number of lines (rows in `paragraph` table) for any character who has 30 lines or more in any single act of 12th Night. Do not include the character "(stage directions)" in your result. Sort the results by act then by number of lines.
 6. You will notice that the `work` table contains columns for `totalwords` and `totalparagraphs`. But can't we derive those values from the entries in the `paragraph` table?
-    a. Write a query which returns `title`, `totalwords`, and `totalparagraphs` columns from the `work` table and the same values calculated from the `paragraph` table using aggregate functions. **HINT:** This will require a `GROUP BY` clause.
-    b. Eyeballing the resultset should suggest that the stored and calculated values are the same. Confirm that by writing a query which returns only those rows where the stored and calculated values are not equal, for either word count or paragraph count. **HINT:** This will require a `HAVING` clause.
+    1. Write a query which returns `title`, `totalwords`, and `totalparagraphs` columns from the `work` table and the same values calculated from the `paragraph` table using aggregate functions. **HINT:** This will require a `GROUP BY` clause.
+    2. Eyeballing the resultset should suggest that the stored and calculated values are the same. Confirm that by writing a query which returns only those rows where the stored and calculated values are not equal, for either word count or paragraph count. **HINT:** This will require a `HAVING` clause.
 
 ## Part 2 – Entity-Relationship Diagrams
 
