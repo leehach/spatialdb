@@ -1,7 +1,5 @@
 # Schedule in Detail
 
-**Dates below are for Fall 2023 semester.**
-
 In the following list:
 
 * "PiA" refers to the *PostGIS in Action, 3e* by Obe & Hsu.

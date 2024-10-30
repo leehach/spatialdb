@@ -75,7 +75,7 @@ Two DataCamp courses (approximately 4 hours each) will be assigned early in the 
 
 69 (base score) + 10 points for each assignment.
 
-These assignments will lead you through creating a basic Entity-Relationship Diagram (ERD), normalizing a database, and creating an Exchange-Transform-Load (ETL) process.
+These assignments will lead you through creating a basic Entity-Relationship Diagram (ERD), normalizing a database, and creating an Extract-Transform-Load (ETL) process.
 
 You will use the skills you develop in these assignments in your term project. Completing these assignments in a timely manner is crucial, not only because each assignment is worth a full letter grade in your final course grade, but because you will struggle with the term project without the experience of working on these assignments.
 
@@ -175,7 +175,7 @@ Normalization often requires judgement calls. There may be more than one way to 
 * (1 point) Correctly identify all or nearly all columns that can be replaced with derived columns (i.e., calculated based on other data in the database).
 * (7 points) Propose a new ERD with all entities in 3NF and appropriate relationships among entities.
 
-### Assignment 3: Exchange-Transform-Load Processes (10)
+### Assignment 3: Extract-Transform-Load Processes (10)
 
 In this assignment, you will script a complete ETL process to import nonspatial data to PostGIS and create a spatial table, with some rudimentary normalization. The source data is the [Street Poles dataset from OpenDataPhilly](https://www.opendataphilly.org/dataset/street-poles). Note that while this data is available as a shapefile, we are going to work with the CSV. One of the things you have to do in this assignment is construct PostGIS geometries from the raw coordinates.
 
