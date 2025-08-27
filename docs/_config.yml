@@ -1,5 +1,5 @@
 title: Spatial Database Design
-description: Prof. Hachadoorian | Fall 2024
+description: Prof. Hachadoorian | Fall 2025
 # theme: jekyll-theme-cayman
 # theme: jekyll-theme-slate
 # theme: jekyll-theme-merlot
@@ -17,7 +17,7 @@ defaults:
       type: "pages"
     values:
       title: Spatial Database Design
-      subtitle: Fall 2024
+      subtitle: Fall 2025
       layout: page
       show_sidebar: false
       menubar: course_menu
