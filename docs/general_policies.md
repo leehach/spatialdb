@@ -8,9 +8,18 @@ All submitted work should be your own. Please read my guide to Academic Integrit
 
 All persons participating in the course should be respectful of other students and the instructor in order to facilitate a civil learning environment. All persons participating in the course have a right to expect respectful treatment in the classroom.
 
+## Disability Statement
+
+Any student who has a need for accommodations based on the impact of a documented disability or medical condition should contact Disability Resources and Services (DRS) located in the Howard Gittis Student Center South, 4th Floor at [drs@temple.edu](mailto:drs@temple.edu) or 215-204-1280 to request accommodations and learn more about the resources available to you. If you have a DRS accommodation letter to share with me, or you would like to discuss your accommodations, please contact me as soon as practical. I will work with you and with DRS to coordinate reasonable accommodations for all students with documented disabilities. All discussions related to your accommodations will be confidential.
+
 ## Statement on Academic Freedom
 
 Freedom to teach and freedom to learn are inseparable facets of academic freedom. The University has adopted a policy on Student and Faculty Academic Rights and Responsibilities (Policy # 03.70.02) which can be downloaded from [http://policies.temple.edu/getdoc.asp?policy_no=03.70.02](http://policies.temple.edu/getdoc.asp?policy_no=03.70.02).
+
+## Generative AI
+
+The use of generative AI tools (such as ChatGPT, DALL-E, etc.) are not
+permitted in this class; therefore, any use of AI tools for work in this class may be considered a violation of Temple University’s [Academic Honesty](https://bulletin.temple.edu/undergraduate/about-temple-university/student-responsibilities/#academichonesty) policy and [Student Conduct Code](https://secretary.temple.edu/sites/secretary/files/policies/03.70.12.pdf), since the work is not your own.
 
 ## Communicating with the Instructor
 

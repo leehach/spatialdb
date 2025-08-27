@@ -25,18 +25,10 @@ docker pull kartoza/postgis:latest
 
 Note that the `:latest` tag is not strictly necessary. If you leave it off, the latest version will be pulled. However, `latest` has sometimes been quite old. In some semesters, I may instruct you to replace `latest` with a specific version number.
 
-<!--Consider removing instructions to create volume.-->
-
-Create a volume to persist your data. This is not strictly necessary, as you can stop and start a container, and new or updated data will persist. However, if you ever delete the container, you will lose any changes you made (when you re-run the container, the data will be whatever was in the original image). Creating a volume will allow you to create a new container and attach the data used previously.
-
-```sh
-docker volume create pg_data
-```
-
 Create the docker image:
 
 ```sh
-docker create --name my_postgis -p 5433:5432 -e POSTGRES_PASS=docker -v pg_data:/var/lib/postgresql kartoza/postgis:latest
+docker create --name my_postgis -p 5433:5432 -e POSTGRES_PASS=docker kartoza/postgis:latest
 ```
 
 Some remarks:
@@ -44,7 +36,6 @@ Some remarks:
 * `--name my_postgis`: The name my_postgis is arbitrary. You can use another name for the container.
 * `-p 5433:5432`: The PostgreSQL server must listen on a specific port for client connections. `5432` is the default Postgres port. If you are already running a native Postgres server on the same machine, `5432` is probably already in use. The `5433` port on `localhost` is mapped to port `5432` (the usual Postgres port) in the container.
 * `-e POSTGRES_PASS=docker`: This sets the Postgres password for the `docker` user to `docker`. Note that the Kartoza container documentation is inconsistent on this. It says that the password should automatically be `docker`, but also says that it is generated randomly if omitted. In practice, I found that `docker` did not work *and* the randomly generated password in the Docker logs also did not work, so we are setting the password explicitly.
-* `-v pg_data:/var/lib/postgresql` maps the location of the data cluster in the container (`/var/lib/postgresql`) to the docker volume created in the previous step.
 * `kartoza/postgis:latest` is the name of the container image we previously pulled. Note that if you don't pull the image first, it will be downloaded when you run docker create. If you leave off the tag, it will pull the image with the `latest` tag anyway. In semesters where I instruct you to pull a specific version, make sure to use the version tag here as well.
 
 Now that the container has been created and named, starting it is easy:
