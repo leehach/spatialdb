@@ -45,7 +45,7 @@ In the following list:
         * PG 6, all sections: [Data Manipulation](https://www.postgresql.org/docs/current/dml.html)
     * Thurs
         * Meeting: Data Modification Language (DML) and Keys
-        * **Due Date:** Database Design Assignment 0 (discussed in class)
+        * **Due Date:** Database Design Assignment 0 (Practice ERD) (discussed in class)
     * Fri
         * **Due Date:** DataCamp - Joining Data in PostgreSQL
 * Week 6 (9/29 - 10/3)
@@ -55,7 +55,7 @@ In the following list:
         * PiA 14
     * Thurs
         * Meeting: Data Definition Language (DDL) and Database Normalization
-        * **Due Date:** Database Design Assignment 1
+        * **Due Date:** Database Design Assignment 1 (Basic ERD)
 * Week 7 (10/6 - 10/10)
     * Reading
         * PiA 8
@@ -63,7 +63,7 @@ In the following list:
     * Thurs
         * Meeting: Spatial Relationships
         * Database Design Assignment 1 solution discussed in class
-        * **Due Date:** Database Design Assignment 2
+        * **Due Date:** Database Design Assignment 2 (Normalizing the Open Source Shakespeare Database)
 * Week 8 (10/13 - 10/17)
     * Reading
         * PiA 9
@@ -79,7 +79,7 @@ In the following list:
         * Workshop 15, 27, 33
     * Thurs
         * Meeting: Storage Strategies and Performance Tuning
-        * **Due Date:** Database Design Assignment 3
+        * **Due Date:** Database Design Assignment 3 (ETL Processes)
 * Week 10 (10/27 - 10/31)
     * Thurs
         * Meeting: Student-Led Tutorials
@@ -91,7 +91,7 @@ In the following list:
         * **Due Date:** Milestone 4 (evaluated in class)
 * Week 12 (11/10 - 11/14)
     * Thurs
-        * **PROFESSOR AT CONFERENCE; CLASS WILL BE HELD ONLINE OR CANCELLED** <!--Meeting: Student-Led Tutorials-->
+        * Meeting: Student-Led Tutorials
 * Week 13 (11/17 - 11/21)
     * Thurs
         * Meeting: Student-Led Tutorials

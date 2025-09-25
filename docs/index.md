@@ -73,7 +73,7 @@ The PostgreSQL Documentation is an excellent example of clear, readable software
     * Student-Led Tutorials
     * Term Project: Milestone 4 Due
 * Week 12
-    * **PROFESSOR AT CONFERENCE; CLASS WILL BE HELD ONLINE OR CANCELLED**<!--Student-Led Tutorials-->
+    * Student-Led Tutorials
 * Week 13
     * Student-Led Tutorials
 * Week 14
