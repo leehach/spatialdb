@@ -30,6 +30,8 @@
   items:
     - name: Creating a PostGIS Server in Docker
       link: /creating_a_postgis_server_in_docker
+    - name: Installing PostGIS with EnterpriseDB
+      link: /installing_postgis_with_enterprisedb
     - name: Locally Hosting the Open Source Shakespeare Database
       link: /locally_hosting_the_open_source_shakespeare_database
     - name: Upload the Natural Earth Database
