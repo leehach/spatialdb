@@ -47,4 +47,13 @@ Continue to hit Next until you get to the final screen, and hit Finish.
 
 This step is necessary so that you can run command line tools like `psql` and `raster2pgsql` without providing an absolute path.
 
-***INSTRUCTIONS FORTHCOMING***
+1. Go to the Start Menu and begin typing "environment". Select "Edit the system environment variables". Hit Yes to indicate you want to allow this app to make changes to the device.
+2. In the System Properties dialog, click the Environment Variables button (lower right).
+3. In the list of system variables, select "Path" and hit the Edit button:\
+    ![](images/environment_variables_edit_path.png)
+4. In the Edit environment variable dialog, hit New (or just select the first blank line in the list) and paste in `C:\Program Files\PostgreSQL\17\bin`. (Note, if you install Postgres to a different location, or install a different version, your path will be different.)\
+    ![](images/edit_environment_variable_add_new_path.png)
+5. Hit OK three times to exit the Control Panel.
+
+You can check that the path is set correctly by starting Windows Terminal and entering `psql --version`. This will just print the version number of the `psql` utility. If you get a message like `psql: The term 'psql' is not recognized...`, then you haven't set the path correctly. Note that if Windows Terminal was already open when you added the new path, you will have to restart Windows Terminal.
+
