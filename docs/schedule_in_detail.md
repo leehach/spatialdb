@@ -100,5 +100,5 @@ In the following list:
     * Thurs
         * Meeting: Student-Led Tutorials
 * Finals Period
-    * Scheduled Examination Time (12/12)
+    * Scheduled Examination Time (12/11)
         * **Due Date:** Milestone 5 (Final Report)
